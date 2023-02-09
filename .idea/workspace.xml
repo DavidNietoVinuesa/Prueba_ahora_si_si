@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5443ee0f-d232-438a-b50d-b637f272fddf" name="Changes" comment="" />
+    <list default="true" id="5443ee0f-d232-438a-b50d-b637f272fddf" name="Changes" comment="cambios2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LUwZvQs7JujuQVlyV3vWC3giIM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,7 +39,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675939028894</updated>
+      <workItem from="1675939030123" duration="352000" />
     </task>
+    <task id="LOCAL-00001" summary="cambios">
+      <created>1675939144192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675939144192</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cambios2">
+      <created>1675939285615</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675939285615</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cambios" />
+    <MESSAGE value="cambios2" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambios2" />
   </component>
 </project>
